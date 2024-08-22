@@ -2,7 +2,8 @@
 
 ### Important Instructions:
 
-Please complete the following task and submit it as a GitHub repository. Send the repository link in response to the email you received regarding this task. Execution time will be evaluated based on the timestamp of the email and your reply. Each step will be assessed, including execution time, understanding of the tasks, response quality, and code quality.
+
+Please ***clone the provided GitHub repository, do not download it. After completing the task, push your changes to a fork of the repository on your GitHub account.*** Send the link to your forked repository in response to the email you received regarding this task. Execution time will be evaluated based on the timestamp of the email and your reply. Each step will be assessed, including execution time, understanding of the tasks, response quality, and code quality.
 
 Refer to the provided assessment table carefully, as each criterion will be graded to compare applicants. Note that bonus points are awarded at double the rate, but only if all mandatory tasks are successfully implemented.
 
@@ -13,7 +14,6 @@ Additionally, please consider the logo and images included in the repository to 
 The mandatory completion time for this task is 24 hours (8 hours per day). If you complete the task within this timeframe, you will meet the basic requirements. However, to earn additional points, you are encouraged to extend the execution time to a maximum of 3 days. To gain more points, you may need to dedicate more hours per day beyond the standard 8 hours to showcase your commitment and ability to tackle the task more thoroughly.
 
 **Bonus points will also be awarded for deploying your application for testing purposes.** This deployment should be accessible and functional to demonstrate your ability to prepare the app for a real-world environment.
-
 
 ### **Objective**
 
