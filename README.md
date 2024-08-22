@@ -1,5 +1,20 @@
 # **Task: Senior Next.js Developer Assessment**
 
+### Important Instructions:
+
+Please complete the following task and submit it as a GitHub repository. Send the repository link in response to the email you received regarding this task. Execution time will be evaluated based on the timestamp of the email and your reply. Each step will be assessed, including execution time, understanding of the tasks, response quality, and code quality.
+
+Refer to the provided assessment table carefully, as each criterion will be graded to compare applicants. Note that bonus points are awarded at double the rate, but only if all mandatory tasks are successfully implemented.
+
+Additionally, please consider the logo and images included in the repository to showcase your UI capabilities and skills in using Tailwind CSS and styling. You may choose from the provided color templates or use a combination of them.
+
+**Thorough documentation** of your work, including using markup documents and ClickUp to illustrate how you grasped the task and organized your subtasks, is optional but will be considered a strong bonus. Demonstrating your ability to manage and communicate your work effectively through detailed documentation can significantly enhance your evaluation.
+
+The mandatory completion time for this task is 24 hours (8 hours per day). If you complete the task within this timeframe, you will meet the basic requirements. However, to earn additional points, you are encouraged to extend the execution time to a maximum of 3 days. To gain more points, you may need to dedicate more hours per day beyond the standard 8 hours to showcase your commitment and ability to tackle the task more thoroughly.
+
+**Bonus points will also be awarded for deploying your application for testing purposes.** This deployment should be accessible and functional to demonstrate your ability to prepare the app for a real-world environment.
+
+
 ### **Objective**
 
 Build a simplified e-commerce product application using **Next.js** within 24 hours. The application should focus on the main features, showcasing skills in authentication, API integration, state management, UI design, SSR/SSG, error handling, and SEO optimization.
@@ -56,23 +71,35 @@ Build a simplified e-commerce product application using **Next.js** within 24 ho
    * Add product search and filtering functionality on the product listing page.
    * Enable users to filter products by category, price range, etc.
    * Bonus: **2 - 3 hours**
+6. **Deploy for Testing**
+   * deploy to Vercel or other
+   * Bonus: 2-3 hours
+7. Documentation
+   * using markup
 
 ---
 
 ### **Assessment Criteria**
 
-| **Category**          | **Evaluation Points**                                                                                                                                                              |
-| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Code Quality**      | Proper organization, readability, use of modern best practices, clean architecture, and modular components.                                                                              |
-| **Algorithm & Logic** | Efficiency and correctness of the implementation, particularly with authentication, state management, and API calls.                                                                     |
-| **UI/UX Design**      | User interface aesthetics, ease of use, responsiveness across devices, and clarity of error messaging.                                                                                   |
-| **State Management**  | Effective use of Redux to manage complex state, including proper usage of actions, reducers, and middleware for async handling.                                                          |
-| **API Integration**   | Solid integration with API routes, error handling for API calls, secure data flow between frontend and backend, and JWT authentication/authorization flow.                               |
-| **SSR/SSG**           | Effective implementation of Server-Side Rendering and Static Site Generation, demonstrating the developer’s ability to improve performance and SEO.                                     |
-| **SEO Optimization**  | Proper use of meta tags, dynamic page titles, and SEO-friendly URLs. Implement structured data and follow best practices to enhance visibility on search engines.                        |
-| **Error Handling**    | Clear user-friendly error messages for invalid inputs, API issues, and missing pages. Proper handling of JWT expiration and refresh.                                                     |
-| **Execution Time**    | Efficient implementation within the allocated 24 hours, with timely completion of core features.                                                                                         |
-| **Bonus Features**    | Ability to implement extra features such as maps integration, image optimization, advanced error handling, performance optimizations, and product search/filtering as additional effort. |
+| **Category**          |                                                                          **Evaluation Points**                                                                          | Degree |
+| :-------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------ |
+| **Code Quality**      |                               Proper organization, readability, use of modern best practices,<br />clean architecture, and modular components.                               |        |
+| **Algorithm & Logic** |                        Efficiency and correctness of the implementation,<br />particularly with authentication, <br />state management, and API calls.                        |        |
+| **UI/UX Design**      |                                 User interface aesthetics, ease of use,<br /> responsiveness across devices, and clarity of error messaging.                                 |        |
+| **State Management**  |                  Effective use of Redux to manage complex state,<br /> including proper usage of actions, reducers, <br />and middleware for async handling.                  |        |
+| **API Integration**   |     Solid integration with API routes, error handling for API calls,<br />secure data flow between frontend and backend, <br />and JWT authentication/authorization flow.     |        |
+| **SSR/SSG**           |           Effective implementation of Server-Side Rendering and Static Site Generation,<br />demonstrating the developer’s ability to improve performance and SEO.           |        |
+| **SEO Optimization**  | Proper use of meta tags, dynamic page titles, and SEO-friendly URLs.<br /> Implement structured data and<br /> follow best practices to enhance visibility on search engines. |        |
+| **Error Handling**    |               Clear user-friendly error messages for invalid inputs,<br /> API issues, and missing pages.<br /> Proper handling of JWT expiration and refresh.               |        |
+| **Execution Time**    |                                       Efficient implementation within the allocated 24 hours, with timely completion of core features.                                       |        |
+| **Bonus Features**    |                                                         Ability to implement extra features such as maps integration,                                                         |        |
+| **Bonus Features**    |                                                                              image optimization                                                                              |        |
+| **Bonus Features**    |                                                                            advanced error handling                                                                            |        |
+| **Bonus Features**    |                                                                           performance optimizations                                                                           |        |
+| **Bonus Features**    |                                                                product search/filtering as additional effort.                                                                |        |
+| **Execution Time**    |                                                                               3days./ 24 hours                                                                               |        |
+| **UI and  Styles**   |                                                                 colorful responsive Tailwind and or other css                                                                 |        |
+| **Bouns Features**    |                                            Documentation using Markup or other /using clickup and show how you organize your tasts                                            |        |
 
 ---
 
