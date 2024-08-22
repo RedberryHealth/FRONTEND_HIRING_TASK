@@ -2,7 +2,6 @@
 
 ### Important Instructions:
 
-
 Please ***clone the provided GitHub repository, do not download it. After completing the task, push your changes to a fork of the repository on your GitHub account.*** Send the link to your forked repository in response to the email you received regarding this task. Execution time will be evaluated based on the timestamp of the email and your reply. Each step will be assessed, including execution time, understanding of the tasks, response quality, and code quality.
 
 Refer to the provided assessment table carefully, as each criterion will be graded to compare applicants. Note that bonus points are awarded at double the rate, but only if all mandatory tasks are successfully implemented.
@@ -108,7 +107,3 @@ Build a simplified e-commerce product application using **Next.js** within 24 ho
 * Provide access to a **GitHub repository** with your code, organized in a way that highlights the architecture.
 * Ensure that a **README** is included to guide through setup, installation, and any important notes on features implemented.
 * Deploy the app on a platform like **Vercel** or  **Netlify** , if possible, and share the live link.
-
-### **Conclusion**
-
-This task focuses on the core areas essential to demonstrate the skills of a senior Next.js developer while offering bonuses for those who want to showcase more advanced expertise. The developer is expected to prioritize functionality, performance, and good coding practices within the provided 24-hour time frame.
